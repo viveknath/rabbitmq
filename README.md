@@ -1,3 +1,3 @@
 # rabbitmq
 
-SPORTTU QA Environment
+SPORTTU Environment
